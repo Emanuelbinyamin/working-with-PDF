@@ -24,7 +24,7 @@ pip install PyPDF2
 1. Clone this repository to your local machine:
 
     ```bash
-    git clone https://github.com/yourusername/pdf-rotation-utility.git
+    git clone https://github.com/Emanuelbinyamin/working-with-PDF/pdf-rotation-utility.git
     cd pdf-rotation-utility
     ```
 
@@ -75,5 +75,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ---
 
 Feel free to explore, contribute, and share your thoughts! 😄
-```
 
