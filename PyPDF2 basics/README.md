@@ -1,7 +1,8 @@
 ﻿
 # PDF Rotation Utility 📄🔄
 
-Welcome to the **PDF Rotation Utility** project! This Python script allows you to easily rotate pages in a PDF file using the PyPDF2 library. Whether you're dealing with upside-down pages or just want to adjust the orientation, this tool has you covered.
+Welcome to the **PDF basic ** project! This Python script allows you to easily rotate pages in a PDF file, and more actions on a pdf file using the PyPDF2 library. 
+Whether you're dealing with upside-down pages or just want to adjust the orientation, this tool has you covered.
 
 ## Features ✨
 
@@ -33,7 +34,7 @@ pip install PyPDF2
 3. Run the script to rotate your PDF:
 
     ```bash
-    python rotate_pdf.py
+    python pdf.py
     ```
 
 4. The rotated PDF will be saved as `tilt.pdf` in the same directory.
